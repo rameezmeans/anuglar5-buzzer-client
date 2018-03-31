@@ -57,6 +57,7 @@
   "defaults": {
     "styleExt": "css",
     "component": {},
+    "serve": { "host": "https://buzzer-app-rameez.herokuapp.com/", "port": 8080 }
 
   }
 }
